@@ -15,14 +15,14 @@ app.listen(3000)
 ```
 
 **Features**
-1.Step 1: Download Ubuntu. Before you do anything, you have to download Ubuntu
-2.Step 2: Create a live USB. Once you have downloaded Ubuntu's ISO file, the next step is to create a live USB of Ubuntu
-3.Step 3: Boot from the live USB. Plug in your live Ubuntu USB disk to the system
-4.Step 4: Install Ubuntu
+- Step 1: Download Ubuntu. Before you do anything, you have to download Ubuntu
+- Step 2: Create a live USB. Once you have downloaded Ubuntu's ISO file, the next step is to create a live USB of Ubuntu
+- Step 3: Boot from the live USB. Plug in your live Ubuntu USB disk to the system
+- Step 4: Install Ubuntu
 
 **Docs & Community**
-[ubuntu](https://itsfoss.com/install-ubuntu/)
-[topdev](https://topdev.vn)
+- [ubuntu](https://itsfoss.com/install-ubuntu/)
+- [topdev](https://topdev.vn)
 
 >Game Over
 
