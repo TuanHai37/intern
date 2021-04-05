@@ -21,7 +21,7 @@ app.listen(3000)
 
 **Docs & Community**
 - [ubuntu](https://itsfoss.com/install-ubuntu/)
-- [topdev](https://topdev.vn)
+- [topdev](https://www.google.com.vn/?hl=vi)
 
 **Life**
 
@@ -29,4 +29,9 @@ app.listen(3000)
 
 >Game Over
 
-
+**d** :In dam
+>Quote :Kieu Quote
+![](link): Chen link anh
+[](link): Chen link
+- : - cach ra 1 hang : List
+# Header
