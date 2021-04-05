@@ -1,9 +1,7 @@
-function sum(a, b) {
-    return a + b;
-  }
-  
-  const MathJS = {
-    sum,
-  }
-  
-  module.exports = MathJS;
+function SUM(a, b ,c) {
+  return a + b + c;
+}
+const MathJSs = {
+  SUM,
+}
+module.exports = MathJSs;
