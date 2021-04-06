@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "dev": "babel-node src/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scripts": {
+      "start": "babel-node src/server.js",
+      "test":"./node_modules/mocha/bin/mocha src/test/testTotal.js || exit 0"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TuanHai37/intern.git"
@@ -23,6 +24,8 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
   }
 }
