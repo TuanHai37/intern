@@ -3,7 +3,7 @@
    * Let, Const la block scope 
    * Function scope bi gioi han trong function , block scope gioi han trong cap ngoac {} cua for,if...
    */
-function myFunc() {  
+   function myFunc() {  
     var name = 'Luke'
     console.log(name); // 'Luke'
   }
